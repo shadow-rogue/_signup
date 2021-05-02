@@ -1,2 +1,2 @@
 # _signup
-A sample email signup page.
+A sample newsletter sign up page . 
